@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MusixReact/static/css/main.848a5677.chunk.css",
+    "main.js": "/MusixReact/static/js/main.f2d4b264.chunk.js",
+    "main.js.map": "/MusixReact/static/js/main.f2d4b264.chunk.js.map",
+    "runtime-main.js": "/MusixReact/static/js/runtime-main.d1874dda.js",
+    "runtime-main.js.map": "/MusixReact/static/js/runtime-main.d1874dda.js.map",
+    "static/js/2.aa7a639b.chunk.js": "/MusixReact/static/js/2.aa7a639b.chunk.js",
+    "static/js/2.aa7a639b.chunk.js.map": "/MusixReact/static/js/2.aa7a639b.chunk.js.map",
+    "index.html": "/MusixReact/index.html",
+    "precache-manifest.e9ecc07c665526ebcb74ea31fe28f6fc.js": "/MusixReact/precache-manifest.e9ecc07c665526ebcb74ea31fe28f6fc.js",
+    "service-worker.js": "/MusixReact/service-worker.js",
+    "static/css/main.848a5677.chunk.css.map": "/MusixReact/static/css/main.848a5677.chunk.css.map",
+    "static/js/2.aa7a639b.chunk.js.LICENSE.txt": "/MusixReact/static/js/2.aa7a639b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1874dda.js",
+    "static/js/2.aa7a639b.chunk.js",
+    "static/css/main.848a5677.chunk.css",
+    "static/js/main.f2d4b264.chunk.js"
+  ]
+}
